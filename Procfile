@@ -1,1 +1,1 @@
-web hypercorn -b host1853568.hostland.pro main:app
+web hypercorn -b tgcrime.herokuapp.com main:app
