@@ -1,2 +1,1 @@
-web: python main.py
-heroku ps:scale web=1
+web hypercorn -b host1853568.hostland.pro main:app
